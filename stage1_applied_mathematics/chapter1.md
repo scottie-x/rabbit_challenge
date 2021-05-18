@@ -6,7 +6,8 @@
   
 ## 行列の積
 ### 行列の積は「行」×「列」で求める
-$ \begin{pmatrix} 6&4 \\ 3&5 \end{pmatrix}$$ \begin{pmatrix} 1 \\ 2 \end{pmatrix}$＝$ \begin{pmatrix} 6*1+4*2 \\ 3*1+5*2 \end{pmatrix}$=$ \begin{pmatrix} 6+8 \\ 3+10 \end{pmatrix}$=$ \begin{pmatrix} 14 \\ 13 \end{pmatrix}$
+$\begin{pmatrix}6&4 \\
+3&5\end{pmatrix}$$\begin{pmatrix}1 \\ 2\end{pmatrix}$＝$\begin{pmatrix} 6*1+4*2 \\ 3*1+5*2\end{pmatrix}$=$\begin{pmatrix} 6+8 \\ 3+10 \end{pmatrix}$=$\begin{pmatrix} 14 \\ 13 \end{pmatrix}$
 
 ### 連立1次方程式と行列の積
 
@@ -17,7 +18,7 @@ x_1 + 2x_2 = 3 \\
 \end{cases} 
 $$
 
-この連立方程式を行列、ベクトルを使用して表すと以下の通り。
+この連立方程式を行列、ベクトルを使用して表すと以下の通り。  
 $\begin{pmatrix}
 1&2 \\
 2&5 
@@ -32,7 +33,7 @@ $
 
 ## 行基本変形（行列の変形）
 連立方程式を上記のような行列を用いた式で表した時、
-行列を変形し、以下のような形式にすることで解を求めることが可能。
+行列を変形し、以下のような形式にすることで解を求めることが可能。  
 $\begin{pmatrix}
 1&0 \\
 0&1 
